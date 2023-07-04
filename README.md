@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Welcome%20to%20jiazzang's%20GitHub%20👋&fontColor=d6ace6&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+
+### 📞 Contact
+
+
+### 💪 Skills
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Naver&logoColor=white">
