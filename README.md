@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ### 💪 Skills
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Naver&logoColor=white">
+<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white">
