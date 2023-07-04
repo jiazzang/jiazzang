@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 
 ### 💪 Skills
-<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
