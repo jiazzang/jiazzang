@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### 📞 Contact
 
 
-### 💪 Main Skill Set
+### 💪 Skill Set
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
 
 
@@ -30,14 +30,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
 
 
-### 🚀Sub Skill Set
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F24E1E?style=flat-square&logo=Git&logoColor=white">
 
 
-### ✏️I'm learning...
+### ✏️I'm currently learning...
 <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
 
 
