@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### ✏️I'm currently learning...
-<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
 
 
 <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white">
