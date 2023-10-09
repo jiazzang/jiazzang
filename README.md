@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=Welcome%20to%20jiazzang's%20GitHub%20👋&fontColor=000000&animation=twinkling&fontSize=40&fontAlignY=40&fontAlign=50&height=250)
 
 ### 📞 Contact
-
+<a href="mailto:wldk3686@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:wldk3686@gmail.com"/>
 
 ### 💪 Skill Set
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
