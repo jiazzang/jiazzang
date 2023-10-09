@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=white">
 
 
 <img src="https://img.shields.io/badge/Git-F24E1E?style=flat-square&logo=Git&logoColor=white">
